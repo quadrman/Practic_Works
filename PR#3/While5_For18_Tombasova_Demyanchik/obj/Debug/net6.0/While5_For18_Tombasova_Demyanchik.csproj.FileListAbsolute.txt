@@ -1,0 +1,15 @@
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\bin\Debug\net6.0\While5_For18_Tombasova_Demyanchik.exe
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\bin\Debug\net6.0\While5_For18_Tombasova_Demyanchik.deps.json
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\bin\Debug\net6.0\While5_For18_Tombasova_Demyanchik.runtimeconfig.json
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\bin\Debug\net6.0\While5_For18_Tombasova_Demyanchik.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\bin\Debug\net6.0\While5_For18_Tombasova_Demyanchik.pdb
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.csproj.AssemblyReference.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.AssemblyInfoInputs.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.AssemblyInfo.cs
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.csproj.CoreCompileInputs.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\refint\While5_For18_Tombasova_Demyanchik.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.pdb
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\While5_For18_Tombasova_Demyanchik.genruntimeconfig.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\While5_For18_Tombasova_Demyanchik\obj\Debug\net6.0\ref\While5_For18_Tombasova_Demyanchik.dll
