@@ -1,0 +1,15 @@
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\bin\Debug\net6.0\recursion_Demyanchik_Tombasova.exe
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\bin\Debug\net6.0\recursion_Demyanchik_Tombasova.deps.json
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\bin\Debug\net6.0\recursion_Demyanchik_Tombasova.runtimeconfig.json
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\bin\Debug\net6.0\recursion_Demyanchik_Tombasova.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\bin\Debug\net6.0\recursion_Demyanchik_Tombasova.pdb
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.csproj.AssemblyReference.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.AssemblyInfoInputs.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.AssemblyInfo.cs
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.csproj.CoreCompileInputs.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\refint\recursion_Demyanchik_Tombasova.dll
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.pdb
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\recursion_Demyanchik_Tombasova.genruntimeconfig.cache
+C:\Users\kykys\OneDrive\Desktop\Repos\recursion_Demyanchik_Tombasova\obj\Debug\net6.0\ref\recursion_Demyanchik_Tombasova.dll
